@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on web services deployment, Python and C programming, Unix Kernel development and network skills.<br>🌱 I’m currently learning CCNA, NVIDIA CUDA, UNIX Kernel.<br>📖 I'm preparing myself to get eJPTv2, eCPPTv2 and eWPT.
+🔭 I’m currently working on web services deployment, Python, C, Go and Zig programming, Unix Kernel development and network skills.<br>🌱 I’m currently learning CCNA, NVIDIA CUDA, UNIX Kernel.<br>📖 I'm preparing myself to get eJPTv2, eCPPTv2 and eWPT.
 
 
 ## 🌐 Socials:
